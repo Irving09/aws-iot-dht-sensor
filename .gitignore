@@ -1,0 +1,5 @@
+root-CA.crt
+testing-thing.cert.pem
+testing-thing.private.key
+testing-thing.public.key
+node_modules

@@ -1,0 +1,14 @@
+{
+  "name": "testing-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "presentation.js",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.14",
+    "node-dht-sensor": "0.0.32"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
