@@ -37,4 +37,5 @@ function test() {
 }
 
 /* Invoke sensor reading */
-setInterval(test, 3000);
+let THREE_SECONDS = 3000;
+setInterval(test, THREE_SECONDS);
