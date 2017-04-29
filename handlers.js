@@ -1,6 +1,6 @@
 module.exports = {
 	onConnect: function() {
-		console.log('Successfully connected');
+		console.log('Successfully connected to AWS IoT');
 	},
 	onClose: function() {
 		console.log('connection closed');
