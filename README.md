@@ -8,14 +8,14 @@ node-dht-sensor module
 aws-iot-device-sdk module
 `https://github.com/aws/aws-iot-device-sdk-js`
 
-# Running the application
-
 ```
 npm init -f
 npm install aws-iot-device-sdk -S
 npm install node-dht-sensor -S
-npm start
 ```
+
+# Running the application
+`npm start`
 
 # Notes
 Credentials are generated from `https://us-west-2.console.aws.amazon.com/iotv2/home?region=us-west-2#/connectdevice/`
