@@ -9,7 +9,6 @@ aws-iot-device-sdk module
 `https://github.com/aws/aws-iot-device-sdk-js`
 
 ```
-npm init -f
 npm install aws-iot-device-sdk -S
 npm install node-dht-sensor -S
 ```
